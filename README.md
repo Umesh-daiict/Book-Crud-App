@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1.Check database Connection in database -> db.js
+2.npm install
+3.npm run start
+4.cd backend
+5.npm install
+6.npm run start(make sure your mongodb is open and runing before this)
 
 ## Available Scripts
 
