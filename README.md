@@ -8,13 +8,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-1.Check database Connection in database -> db.js
-2.npm install
-3.npm run start
-4.cd backend
-5.npm install
-6.npm run start(make sure your mongodb is open and runing before this)
-Runs the app in the development mode.\
+**1.Check database Connection in database -> db.js
+
+***2.npm install
+
+***3.npm run start
+
+***4.cd backend
+
+***5.npm install
+
+***6.npm run start(make sure your mongodb is open and runing before this)
+
+***Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
